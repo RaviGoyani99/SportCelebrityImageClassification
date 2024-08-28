@@ -2,11 +2,16 @@
 
 Welcome to the Sports Celebrity Image Classification project! This project aims to classify images of famous sports personalities using machine learning techniques. The classification model is capable of distinguishing between five well-known sports celebrities:
 
-* Lionel Messi (Football)
-* Maria Sharapova (Tennis)
-* Roger Federer (Tennis)
-* Serena Williams (Tennis)
-* Virat Kohli (Cricket)
+### Technologies Used
+The project integrates multiple technologies to deliver an end-to-end machine learning solution:
+
+1. Python
+2. Numpy and OpenCV for data cleaning
+3. Matplotlib & Seaborn for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. Deploy to production using aws Ec2 
 
 ## Image 1: Single Celebrity Classification
 ![image](https://github.com/user-attachments/assets/460955ec-7783-45b6-a480-5336b510be8f)
@@ -29,18 +34,6 @@ In this project, we've implemented a full-fledged image classification system, e
 **Web Interface:** A user-friendly web interface was developed using Flask to allow users to upload images and get instant predictions on which sports celebrity the image represents. The interface also displays the probability scores for each prediction.
 
 **Deployment:** The entire application was deployed using Nginx, ensuring it is scalable and accessible.
-
-### Technologies Used
-The project integrates multiple technologies to deliver an end-to-end machine learning solution:
-
-1. Python
-2. Numpy and OpenCV for data cleaning
-3. Matplotlib & Seaborn for data visualization
-4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
-6. Python flask for http server
-7. Deploy to production using aws Ec2 
-
 
 ### Installation Guide
 
