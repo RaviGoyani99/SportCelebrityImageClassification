@@ -11,6 +11,4 @@ A machine learning project that classifies images of sports celebrities using a 
 
 ![image](https://github.com/user-attachments/assets/5aeb313d-fd7b-4117-bd61-bf589467ffa6)
 
-![image](https://github.com/user-attachments/assets/d649c794-85ef-4b91-9da5-787246b035e8)
-![image](https://github.com/user-attachments/assets/83a9a757-2acc-4efd-95dc-e45d328800d0)
 
