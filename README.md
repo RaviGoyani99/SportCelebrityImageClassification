@@ -36,7 +36,9 @@ In this project, we've implemented a full-fledged image classification system, e
 
 ## Image 3 : ML Model Deploy to production using aws Ec2 & NGINX Web server
 
-![image](https://github.com/user-attachments/assets/fcce5b12-f8c6-4827-886a-86986c38e687)
+![362345597-fcce5b12-f8c6-4827-886a-86986c38e687](https://github.com/user-attachments/assets/b2a34c8f-7175-4aa1-83d9-925940aaf425)
+
+
  
 
 ### Installation Guide
