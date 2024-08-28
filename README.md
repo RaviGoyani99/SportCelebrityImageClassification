@@ -22,7 +22,7 @@ This image showcases the classification of two different sports celebrities, Mar
 ### Project Overview
 In this project, we've implemented a full-fledged image classification system, encompassing various stages from data acquisition to deploying a web-based interface for real-time predictions. The key components of the project include:
 
-**1. Data Collection:** We gathered images of the five sports celebrities by scraping images from Google. This involved extensive data cleaning and preprocessing to ensure the quality of the dataset.
+**+ Data Collection:** We gathered images of the five sports celebrities by scraping images from Google. This involved extensive data cleaning and preprocessing to ensure the quality of the dataset.
 
 **2. Model Building:** We used popular machine learning libraries such as Scikit-learn and OpenCV to build a robust classification model. The model was trained on the curated dataset, using techniques like data augmentation to improve its generalization.
 
