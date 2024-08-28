@@ -3,3 +3,10 @@ A machine learning project that classifies images of sports celebrities using a 
 
 
 ![image](https://github.com/user-attachments/assets/460955ec-7783-45b6-a480-5336b510be8f)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/5aeb313d-fd7b-4117-bd61-bf589467ffa6)
