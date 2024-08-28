@@ -43,9 +43,13 @@ The project integrates multiple technologies to deliver an end-to-end machine le
 
 
 ### Installation Guide
+
 **1. Clone the Repository:** git clone https://github.com/your-username/sports-celebrity-classifier.git
+
 **2. Install Dependencies:** Navigate to the project directory and run pip install -r requirements.txt to install all necessary Python packages.
+
 **3. Run the Server:** Start the Flask server by navigating to the server directory and running python app.py.
+
 **4. Access the Web Interface:** Open your browser and go to http://localhost:5000 to access the image classification interface.
 
 ### Conclusion
