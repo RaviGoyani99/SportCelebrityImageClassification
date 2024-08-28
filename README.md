@@ -11,7 +11,7 @@ The project integrates multiple technologies to deliver an end-to-end machine le
 4. Sklearn for model building
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
-7. Deploy to production using aws Ec2 & NGINX Web server (AWS_Deployment_Guide.md)
+7. Deploy to cloud using aws Ec2 & NGINX web server
 
 ## Image 1: Single Celebrity Classification
 ![image](https://github.com/user-attachments/assets/460955ec-7783-45b6-a480-5336b510be8f)
@@ -50,6 +50,8 @@ In this project, we've implemented a full-fledged image classification system, e
 **3. Run the Server:** Start the Flask server by navigating to the server directory and running python app.py.
 
 **4. Access the Web Interface:** Open your browser and go to http://localhost:5000 to access the image classification interface.
+
+**5. Deploy to cloud using aws Ec2 & NGINX web server:** for more info. see file "AWS_Deployment_Guide.md"
 
 ### Conclusion
 This project demonstrates the integration of various data science, machine learning, and web development tools to build a functional and practical application. It showcases how machine learning models can be effectively deployed to solve real-world problems, providing users with an interactive and engaging experience.
