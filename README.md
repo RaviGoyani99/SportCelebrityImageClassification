@@ -23,7 +23,6 @@ This image demonstrates the classification of a single sports celebrity, where t
 
 This image showcases the classification of two different sports celebrities, Maria Sharapova and Roger Federer, with the model correctly identifying each and providing separate probability scores for both individuals.
 
-
 ### Project Overview
 In this project, we've implemented a full-fledged image classification system, encompassing various stages from data acquisition to deploying a web-based interface for real-time predictions. The key components of the project include:
 
@@ -34,6 +33,11 @@ In this project, we've implemented a full-fledged image classification system, e
 **Web Interface:** A user-friendly web interface was developed using Flask to allow users to upload images and get instant predictions on which sports celebrity the image represents. The interface also displays the probability scores for each prediction.
 
 **Deployment:** The entire application was deployed using Nginx, ensuring it is scalable and accessible.
+
+## Image 3 : ML Model Deploy to production using aws Ec2 & NGINX Web server
+
+![image](https://github.com/user-attachments/assets/fcce5b12-f8c6-4827-886a-86986c38e687)
+ 
 
 ### Installation Guide
 
