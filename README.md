@@ -33,16 +33,20 @@ In this project, we've implemented a full-fledged image classification system, e
 ### Technologies Used
 The project integrates multiple technologies to deliver an end-to-end machine learning solution:
 
-Python: The core programming language used for data processing, model building, and server-side development.
-Numpy & OpenCV: Utilized for data cleaning and preprocessing tasks, including image resizing, normalization, and augmentation.
-Matplotlib & Seaborn: Used for visualizing data distributions and model performance metrics.
-Scikit-learn: The primary machine learning library used to build and evaluate the classification model.
-Flask: A lightweight web framework used to create the web interface and API for the model.
-HTML/CSS/JavaScript: Frontend technologies used to build the user interface of the application.
-Jupyter Notebook, Visual Studio Code, Pycharm: IDEs used for different parts of the development process.
++ Python
++ Numpy and OpenCV for data cleaning
+Matplotlib & Seaborn for data visualization
+Sklearn for model building
+Jupyter notebook, visual studio code and pycharm as IDE
+Python flask for http server
+HTML/CSS/Javascript for UI
 
 
-
+### Installation Guide
+**1. Clone the Repository:** git clone https://github.com/your-username/sports-celebrity-classifier.git
+**2. Install Dependencies:** Navigate to the project directory and run pip install -r requirements.txt to install all necessary Python packages.
+**3. Run the Server:** Start the Flask server by navigating to the server directory and running python app.py.
+**4. Access the Web Interface:** Open your browser and go to http://localhost:5000 to access the image classification interface.
 
 ### Conclusion
 This project demonstrates the integration of various data science, machine learning, and web development tools to build a functional and practical application. It showcases how machine learning models can be effectively deployed to solve real-world problems, providing users with an interactive and engaging experience.
