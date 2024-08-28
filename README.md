@@ -40,3 +40,9 @@ Scikit-learn: The primary machine learning library used to build and evaluate th
 Flask: A lightweight web framework used to create the web interface and API for the model.
 HTML/CSS/JavaScript: Frontend technologies used to build the user interface of the application.
 Jupyter Notebook, Visual Studio Code, Pycharm: IDEs used for different parts of the development process.
+
+
+
+
+### Conclusion
+This project demonstrates the integration of various data science, machine learning, and web development tools to build a functional and practical application. It showcases how machine learning models can be effectively deployed to solve real-world problems, providing users with an interactive and engaging experience.
