@@ -11,7 +11,7 @@ The project integrates multiple technologies to deliver an end-to-end machine le
 4. Sklearn for model building
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
-7. Deploy to production using aws Ec2 
+7. Deploy to production using aws Ec2 & NGINX Web server
 
 ## Image 1: Single Celebrity Classification
 ![image](https://github.com/user-attachments/assets/460955ec-7783-45b6-a480-5336b510be8f)
