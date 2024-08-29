@@ -8,10 +8,12 @@ The project integrates multiple technologies to deliver an end-to-end machine le
 1. Python
 2. Numpy and OpenCV for data cleaning
 3. Matplotlib & Seaborn for data visualization
-4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
-6. Python flask for http server
-7. Deploy to cloud using aws Ec2 & NGINX web server
+4. Data Cleaning · Feature Engineering · Dimesionality Reduction · Outlier Removal
+5. Graph plotting · One-Hot Encoding · Data Processing Pipeline · GridSearch CV · Git BASH
+6. Sklearn for model building
+7. Jupyter notebook, visual studio code and pycharm as IDE
+8. Python flask for http server
+9. Deploy to cloud using aws Ec2 & NGINX web server
 
 ## Image 1: Single Celebrity Classification
 ![image](https://github.com/user-attachments/assets/460955ec-7783-45b6-a480-5336b510be8f)
