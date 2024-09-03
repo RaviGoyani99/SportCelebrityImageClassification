@@ -46,7 +46,7 @@ In this project, we've implemented a full-fledged image classification system, e
 
 ### Installation Guide
 
-**1. Clone the Repository:** git clone https://github.com/your-username/sports-celebrity-classifier.git
+**1. Clone the Repository:** git clone https://github.com/RaviGoyani99/sports-celebrity-classifier.git
 
 **2. Install Dependencies:** Navigate to the project directory and run pip install -r requirements.txt to install all necessary Python packages.
 
