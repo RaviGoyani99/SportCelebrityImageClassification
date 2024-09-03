@@ -6,7 +6,7 @@ Welcome to the Sports Celebrity Image Classification project! This project aims 
 The project integrates multiple technologies to deliver an end-to-end machine learning solution:
 
 1. Python
-2. Numpy and OpenCV for data cleaning
+2. NumPy
 3. Matplotlib & Seaborn for data visualization
 4. Data Cleaning · Feature Engineering · Dimesionality Reduction · Outlier Removal
 5. Graph plotting · One-Hot Encoding · Data Processing Pipeline · GridSearch CV · Git BASH
